@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Mahendra Dhamala.
 
-- 🔭 I’m currently working on Python and Rust
+- 🔭 I’m currently working on Python, Rust and Golang
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Javascript, Rust and Python
 - 🤔 I’m looking for help with ...
